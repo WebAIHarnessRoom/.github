@@ -19,7 +19,8 @@ WebAIHarnessRoom 归集与 Web AI 相关的 Harness，服务于一个目标：�
 
 ## 索引
 
-所有 Harness 的目录在 [room-index](https://github.com/WebAIHarnessRoom/room-index)。
+- 所有 Harness 的目录在 [room-index](https://github.com/WebAIHarnessRoom/room-index)。
+- 门户网站：<https://webaiharnessroom.github.io/>
 
 ## 原则
 
